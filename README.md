@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm babu vijaya raghavan</h1>
-<h3 align="center">A machine learning engineer from india</h3>
+<h3 align="center">A machine learning Student from india</h3>
 
 <p align="left"> <a href="https://twitter.com/always_babu_m" target="blank"><img src="https://img.shields.io/twitter/follow/always_babu_m?logo=twitter&style=for-the-badge" alt="always_babu_m" /></a> </p>
 
